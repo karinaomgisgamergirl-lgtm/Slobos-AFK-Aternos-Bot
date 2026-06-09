@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "technobladeneverdies",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "ThescriptedSMP123.exaroton.me",
     "port": 64042,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
